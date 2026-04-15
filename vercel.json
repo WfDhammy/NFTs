@@ -1,0 +1,3 @@
+{
+    "rewrites" : [{"source" : "/(.*)", "desteination" : "/index.html"}]
+}
